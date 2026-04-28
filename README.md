@@ -21,3 +21,4 @@ Source = Google.
 * Employment Trends: Found that freelancers have a significantly higher default rate compared to salaried employees.
 
 7. ( Snapshot )
+https://github.com/shubhamm-ghag/CreditShield-Analysis/blob/main/Screenshot%202026-04-28%20134923.png
